@@ -5,7 +5,7 @@ const tasks = require('./routes/tasks')
 
 //middleware
 
-app.use(express.json)
+app.use(express.json())
 
 // routes
 app.get('/hello', (req,res) => {
