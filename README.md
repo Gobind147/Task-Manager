@@ -90,7 +90,5 @@ Once the server is running, you can use the following endpoints to interact with
 
 
 
-## Screenshot
 
-![image](https://github.com/user-attachments/assets/f94b3cfa-b316-4ca9-90f1-8eddc3a58131)
 
